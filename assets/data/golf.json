@@ -1,0 +1,123 @@
+{
+	"GC001": {
+        "Name": "Royal Greens Golf Club",
+        "Price": "3500",
+        "Location": "Bangkok, Thailand",
+        "Rating": "4.3"
+    },
+    "GC002": {
+        "Name": "Ocean Breeze Golf Resort",
+        "Price": "2700",
+        "Location": "Pattaya, Thailand",
+        "Rating": "4.6"
+    },
+    "GC003": {
+        "Name": "Emerald Valley Golf Course",
+        "Price": "3200",
+        "Location": "Phuket, Thailand",
+        "Rating": "4.8"
+    },
+    "GC004": {
+        "Name": "Sunset Dunes Golf Club",
+        "Price": "2900",
+        "Location": "Chiang Mai, Thailand",
+        "Rating": "4.7"
+    },
+    "GC005": {
+        "Name": "Golden Fairways Golf Estate",
+        "Price": "2600",
+        "Location": "Hua Hin, Thailand",
+        "Rating": "4.5"
+    },
+    "GC006": {
+        "Name": "Lagoon Retreat Golf Club",
+        "Price": "2700",
+        "Location": "Koh Samui, Thailand",
+        "Rating": "4.6"
+    },
+    "GC007": {
+        "Name": "Highland Pines Golf Course",
+        "Price": "3100",
+        "Location": "Krabi, Thailand",
+        "Rating": "4.7"
+    },
+    "GC008": {
+        "Name": "Velvet Greens Golf Club",
+        "Price": "2800",
+        "Location": "Surat Thani, Thailand",
+        "Rating": "4.4"
+    },
+    "GC009": {
+        "Name": "Silver Coast Golf Resort",
+        "Price": "2600",
+        "Location": "Rayong, Thailand",
+        "Rating": "4.5"
+    },
+    "GC010": {
+        "Name": "Royal Tee Golf Club",
+        "Price": "3400",
+        "Location": "Bangkok, Thailand",
+        "Rating": "4.9"
+    },
+    "GC011": {
+        "Name": "Majestic Pines Golf Resort",
+        "Price": "2800",
+        "Location": "Krabi, Thailand",
+        "Rating": "4.7"
+    },
+    "GC012": {
+        "Name": "Skyline Greens Golf Club",
+        "Price": "3000",
+        "Location": "Surat Thani, Thailand",
+        "Rating": "4.6"
+    },
+    "GC013": {
+        "Name": "Crystal Lake Golf Course",
+        "Price": "3100",
+        "Location": "Rayong, Thailand",
+        "Rating": "4.8"
+    },
+    "GC014": {
+        "Name": "Horizon Bay Golf Club",
+        "Price": "2700",
+        "Location": "Bangkok, Thailand",
+        "Rating": "4.5"
+    },
+    "GC015": {
+        "Name": "Imperial Dunes Golf Course",
+        "Price": "3200",
+        "Location": "Pattaya, Thailand",
+        "Rating": "4.9"
+    },
+    "GC016": {
+        "Name": "Silver Tee Golf Club",
+        "Price": "2600",
+        "Location": "Chiang Mai, Thailand",
+        "Rating": "4.4"
+    },
+    "GC017": {
+        "Name": "Golden Sands Golf Resort",
+        "Price": "3400",
+        "Location": "Phuket, Thailand",
+        "Rating": "4.7"
+    },
+    "GC018": {
+        "Name": "Velvet Fairways Golf Club",
+        "Price": "2900",
+        "Location": "Hua Hin, Thailand",
+        "Rating": "4.6"
+    },
+    "GC019": {
+        "Name": "Tranquil Greens Golf Estate",
+        "Price": "2500",
+        "Location": "Koh Samui, Thailand",
+        "Rating": "4.3"
+    },
+    "GC020": {
+        "Name": "Royal Summit Golf Club",
+        "Price": "3300",
+        "Location": "Krabi, Thailand",
+        "Rating": "4.8"
+    }
+
+}
